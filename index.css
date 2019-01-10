@@ -1,0 +1,17 @@
+#imagen img{
+    margin: 5%;
+    margin-left: 25%;
+    margin-top: 5%;
+
+
+
+}
+#prueba {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: aquamarine;
+}
+body{
+    background-color: black;
+}
